@@ -1,0 +1,18 @@
+.list-container {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.list-item {
+  width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .list-item {
+    width: 50%;
+  }
+}
