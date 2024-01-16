@@ -3,9 +3,9 @@ Hello Guys, This is the clone of Twitter, I have built using React, Bootstrap an
 
 Features of this app:
 
- # User can create account 
- # Uer can create posts
- # User can follow other users to see their posts 
+ --> User can create account 
+ --> Uer can create posts
+ --> User can follow other users to see their posts 
 
 To start the application in local:
 
